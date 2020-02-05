@@ -1,2 +1,2 @@
-# newCode
-Created with CodeSandbox
+# mycode
+CRUD operation using React and Asp.net
